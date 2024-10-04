@@ -6,7 +6,6 @@ import streamlit as st
 import urllib
 from function import DataAnalyzer, BrazilMapPlotter
 from babel.numbers import format_currency
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Dataset
 datetime_cols = ["order_approved_at", "order_delivered_carrier_date", "order_delivered_customer_date", "order_estimated_delivery_date", "order_purchase_timestamp", "shipping_limit_date"]
