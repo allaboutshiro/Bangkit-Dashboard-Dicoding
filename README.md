@@ -4,6 +4,8 @@
 - **How to use**: 
 cd dicoding/dasboard/
 streamlit run main.py
-- **Fitur**: Rincian lebih lanjut tentang fitur yang disediakan.
-- **Kontribusi**: Cara orang lain dapat berkontribusi pada proyek.
-- **Lisensi**: Informasi tentang lisensi yang digunakan.
+
+or you may check in https://toshirofrederick-dicoding.streamlit.app/
+or https://github.com/allaboutshiro/Bangkit-Dashboard-Dicoding
+
+it is done over there.
